@@ -1,8 +1,8 @@
 <h2 align="center">Hey there 👋, I'm <a href="http://simon-mainfroy.herokuapp.com/">Simon</a></h2>
 <br>
-<p>I'm a fullstack developer based in Lyon looking for an alternance 🎶
+<p>I'm a fullstack developer based in Lyon currently in a study contract 🎶
   <br>
-In the meanwhile I am working on some side projects.</p>
+</p>
 
 <p>
   <a href="https://www.ruby-lang.org/en/"><img src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" alt="ruby" width="50" height="50"/></a>
