@@ -15,8 +15,6 @@
 
 <h2>⚡️ Random Facts</h2>
 <ul>
-  <li>🧭   I’m currently looking for an alternance opportunity in Lyon/remote.</li>
-  <li>💻   Most of my projects are available on <a href="https://github.com/SimonMfroy?tab=repositories">Github</a>.</li>
   <li>💬   Ping me if you want to talk about <strong>Travels, video games or web development</strong>.</li>
 </ul>
 
